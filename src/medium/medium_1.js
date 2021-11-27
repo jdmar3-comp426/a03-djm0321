@@ -72,6 +72,3 @@ export function getStatistics(array) {
             "standard_deviation": standard_deviation};
 
 }
-
-let array = [1, 2, 3, 4];
-console.log(getMedian(array));
